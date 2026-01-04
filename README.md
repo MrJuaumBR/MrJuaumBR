@@ -23,7 +23,7 @@
 
 <!-- Contador de visualizações do perfil -->
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=MrJuaumBR&style=flat-square&color=22CCB2">
-
+<a align="center" href="https://wakatime.com/@018eca80-ac13-42a8-8a9f-b2a68ca8c194"><img src="https://wakatime.com/badge/user/018eca80-ac13-42a8-8a9f-b2a68ca8c194.svg" alt="Total time coded since Apr 10 2024" /></a>
 <!-- Linha decorativa no centro -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
